@@ -22,5 +22,5 @@ This app was deployed using Heroku along with MongoDB Atlas.
 <img width="787" alt="image" src="https://user-images.githubusercontent.com/86696492/164592636-e4b0b962-b072-4a81-8f33-6602472407aa.png">
 
 ## Questions
-[Repository](https://github.com/nicolalenee/budget-tracker)
+[Repository](https://github.com/nicolalenee/budget-tracker)  
 [Deployment](https://nicola-budget-tracker.herokuapp.com/)
